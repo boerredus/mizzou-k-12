@@ -11,4 +11,5 @@ It was just a test, so I didn't take the time to add Javasript, cookies, etc.<br
     <li>Work with transitions</li>
     <li>Test different input types (text, password, email...)</li>
     <li>Work with <em>max-height</em> CSS property</li>
+    <li><em>autofocus</em> input property</li>
 </ul>
